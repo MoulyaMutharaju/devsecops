@@ -192,6 +192,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any questions or feedback, feel free to reach out:
-- **Email:** siddharthdileep2003@gmail.com
-- **GitHub:** [(https://github.com/sidnair19/devsecops.git)]
+- **Email:** moulya.m15@gmail.com
+- **GitHub:** [ https://github.com/MoulyaMutharaju/devsecops]
 
